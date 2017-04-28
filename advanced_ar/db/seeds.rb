@@ -11,3 +11,15 @@ Person.create! [
     { first_name: "John", last_name: "Smith", age: 27, login: "john2", pass: "no_idea"},
     { first_name: "Bill", last_name: "Gates", age: 75, login: "bill", pass: "windows3.1"},
     { first_name: "Lebron", last_name: "James", age: 30, login: "bron", pass: "need more rings"}]
+
+PersonalInfo.create! [
+    { height: 5.5, weight: 200.0, person_id: 31}
+                     ]
+
+Person.first.jobs.create! [
+    {title: "Developer", company: "MS", position_id: "#1234"},
+    {title: "Developer", company: "MS", position_id: "#1235"}]
+
+Person.last.jobs.create! [
+    {title: "Sr. Developer", company: "MS", position_id: "#5234"},
+    {title: "Sr. Developer", company: "MS", position_id: "#5235"}]
