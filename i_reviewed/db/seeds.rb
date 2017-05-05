@@ -7,6 +7,7 @@ Book.create! [
     { name: "Design Patterns in Ruby", author: "Russ Olsen"},
     { name: "The Ruby Programming Language", author: "David Flanagan"}]
 
+# added notes for Eloquent Ruby
 eloquent = Book.find_by name: "Eloquent Ruby"
 eloquent.notes.create! [
     { title: "Wow", note: "Great book to learn Ruby"},
