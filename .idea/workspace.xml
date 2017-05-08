@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfa73410-4643-48e7-b361-d8ff8d06e093" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i_reviewed/config/environments/production.rb" afterPath="$PROJECT_DIR$/i_reviewed/config/environments/production.rb" />
-    </list>
+    <list default="true" id="cfa73410-4643-48e7-b361-d8ff8d06e093" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -451,7 +449,7 @@
       <workItem from="1493134521950" duration="768000" />
       <workItem from="1493190504071" duration="285000" />
       <workItem from="1493976061244" duration="1372000" />
-      <workItem from="1494227612986" duration="3375000" />
+      <workItem from="1494227612986" duration="3421000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Nested Resources: Part 2">
       <created>1493976083075</created>
@@ -471,7 +469,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6543000" />
+    <option name="totallyTimeSpent" value="6589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1297" height="1338" extended-state="0" />
