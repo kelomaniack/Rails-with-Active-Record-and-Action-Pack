@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2ecac3d-b5b4-4dd7-b538-e27617dd7b0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../advanced_ar/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../advanced_ar/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fancy_cars/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../fancy_cars/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/i_reviewed.iml" afterPath="$PROJECT_DIR$/.idea/i_reviewed.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../todolists/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../todolists/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -155,7 +153,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1291" />
     <option name="y" value="23" />
     <option name="width" value="1289" />
     <option name="height" value="1337" />
@@ -720,15 +717,15 @@
       <workItem from="1494168060259" duration="4874000" />
       <workItem from="1495092042325" duration="287000" />
       <workItem from="1497425229868" duration="52000" />
-      <workItem from="1497431093803" duration="692000" />
+      <workItem from="1497431093803" duration="1443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12068000" />
+    <option name="totallyTimeSpent" value="12819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1291" y="23" width="1289" height="1337" extended-state="0" />
+    <frame x="0" y="23" width="1289" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22730799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
