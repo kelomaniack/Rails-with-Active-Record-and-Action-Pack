@@ -4,16 +4,6 @@
     <list default="true" id="f2ecac3d-b5b4-4dd7-b538-e27617dd7b0c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../module04/todolists/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/../module04/todolists/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/controllers/todo_items_controller.rb" afterPath="$PROJECT_DIR$/../module04/todolists/app/controllers/todo_items_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/controllers/todo_lists_controller.rb" afterPath="$PROJECT_DIR$/../module04/todolists/app/controllers/todo_lists_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../module04/todolists/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/_form.html.erb" afterPath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/edit.html.erb" afterPath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/new.html.erb" afterPath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/show.html.erb" afterPath="$PROJECT_DIR$/../module04/todolists/app/views/todo_items/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/app/views/todo_lists/index.html.erb" afterPath="$PROJECT_DIR$/../module04/todolists/app/views/todo_lists/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module04/todolists/config/routes.rb" afterPath="$PROJECT_DIR$/../module04/todolists/config/routes.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -735,11 +725,12 @@
       <workItem from="1497802762747" duration="2088000" />
       <workItem from="1497819285181" duration="18000" />
       <workItem from="1497895806549" duration="2976000" />
+      <workItem from="1498412555355" duration="532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18523000" />
+    <option name="totallyTimeSpent" value="19055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-930" y="-157" width="929" height="1007" extended-state="0" />
@@ -1048,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,7 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1092,30 +1080,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/books/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1136,6 +1100,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
