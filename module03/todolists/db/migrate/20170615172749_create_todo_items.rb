@@ -3,7 +3,7 @@ class CreateTodoItems < ActiveRecord::Migration
     create_table :todo_items do |t|
       t.date :due_date
       t.string :title
-      t.string :description
+      t.text :description
       t.boolean :completed
 
       t.timestamps null: false
